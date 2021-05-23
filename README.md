@@ -25,7 +25,7 @@ I am Prabhu Kalyan 🙋🏻‍♂️, a Student, Book Lover.
 People can call me a Python Developer, Front End Enthusiast, and looking forward to master Data Science in Python.
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on **Front-End Projects**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prabhu-kalyan-korivi-44630916b/)**
@@ -39,5 +39,5 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 |----------|
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) |   
 
-
+**My Learning Curve be like :**
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
