@@ -28,8 +28,8 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 
 
 
-Prabhu Kalyan's Github Streak
---- | ---
+|Prabhu Kalyan's Github Streak|
+| --- | --- |
 | ![Prabhu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) | 
 
 
