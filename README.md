@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **prabhu30/prabhu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+# Hello there! 👋🏻 I am Prabhu Kalyan! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
+I am Prabhu Kalyan 🙋🏻‍♂️, a Student, Book Lover.
+
+People can call me a Python Developer, Front End Enthusiast, and looking forward to master Data Science in Python.
+
+[![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD)
+
+
+
+ |Prabhu Kalyan's Github Streak
+| --- | --- |
+| ![Prabhu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) | 
+
+
+![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
