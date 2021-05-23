@@ -40,4 +40,5 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) |   
 
 **My Learning Curve be like :**
+
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
