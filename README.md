@@ -27,10 +27,9 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 [![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD)
 
 
-
-|Prabhu Kalyan's Github Streak|
-| --- | --- |
-| ![Prabhu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) | 
+| Prabhu Kalyan's Github Statistics   |
+|----------|
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) |   
 
 
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
