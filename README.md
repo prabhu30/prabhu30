@@ -45,3 +45,7 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 
 
 [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhu30)](https://github.com/prabhu30/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prabhu30&layout=compact)](https://github.com/prabhu30/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&layout=compact)](https://github.com/prabhu30/github-readme-stats)
