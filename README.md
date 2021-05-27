@@ -44,8 +44,3 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 **My Learning Curve be like 😋:**
 
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&layout=compact)](https://github.com/prabhu30/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhu30&repo=aimlprojects&show_owner=true)](https://github.com/prabhu30/github-readme-stats)
- 
