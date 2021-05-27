@@ -43,16 +43,4 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
 
-
-[![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhu30)](https://github.com/prabhu30/github-readme-stats)
-
-[![Prabhu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prabhu30&layout=compact)](https://github.com/prabhu30/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&layout=compact)](https://github.com/prabhu30/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhu30" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&layout=compact />
-</a>
