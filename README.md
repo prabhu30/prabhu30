@@ -35,9 +35,9 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 [![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD)
 
 
-| Prabhu Kalyan's Github Statistics   |
-|----------|----------|
-| ![Prabhu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30) | [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhu30)](https://github.com/prabhu30/github-readme-stats) |
+|Column 1|Column 2|
+|:---:|:---:| 
+|![Prabhu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30)| [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhu30)](https://github.com/prabhu30/github-readme-stats)|
 
 **My Learning Curve be like 😋:**
 
