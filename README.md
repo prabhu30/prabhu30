@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I am Prabhu Kalyan 🙋🏻‍♂️, a Student, Book Lover.
 
-People can call me a Python Developer, Front End Enthusiast, and future Data Scientist 😄
+People can call me a Python Developer, Front-End Web Developer and Data Science Enthusiast 😄
 
 <!--
 - 🔭 I’m currently working on **Data Science & Web Development**
