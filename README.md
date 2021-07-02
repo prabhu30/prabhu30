@@ -1,4 +1,4 @@
-<body bgcolor="dark">
+<body text-align="center">
   <!-- ### Hi there 👋 -->
 
   <!--
