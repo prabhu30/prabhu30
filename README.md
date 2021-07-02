@@ -24,12 +24,15 @@ I am Prabhu Kalyan 🙋🏻‍♂️, a Student, Book Lover.
 
 People can call me a Python Developer, Front End Enthusiast, and looking forward to master Data Science in Python.
 
-- 🔭 I’m currently working on **Web Development**
+<!--
+- 🔭 I’m currently working on **Data Science & Web Development**
+-->
+
 - 🌱 I’m currently learning **JavaScript**
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prabhu-kalyan-korivi-44630916b/)**
-- 😄 Pronouns: **Coding**
+- 😄 Pronouns: **Coding, Writing**
 - ⚡ Fun fact: **I love css, I hate font-family**
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhu30" alt="prabhu30" /> </p> -->
