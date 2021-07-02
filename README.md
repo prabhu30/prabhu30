@@ -28,7 +28,8 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 - 🔭 I’m currently working on **Data Science & Web Development**
 -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Data Science**
+- 🔭 I'm good at **Web Development (Front-end)**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prabhu-kalyan-korivi-44630916b/)**
