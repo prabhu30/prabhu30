@@ -32,9 +32,6 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 - 😄 Pronouns: **Coding**
 - ⚡ Fun fact: **I love css, I hate font-family**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhu30" alt="prabhu30" /> </p> -->
 
 [![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD)
@@ -46,7 +43,7 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 
 |One Good Repo|Top Languages|
 |:---:|:---:| 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhu30&repo=coding&show_owner=true&theme=prussian)](https://github.com/prabhu30/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&layout=compact&theme=react)](https://github.com/prabhu30/github-readme-stats)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhu30&repo=coding&show_owner=true&theme=prussian)](https://github.com/prabhu30/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&theme=react)](https://github.com/prabhu30/github-readme-stats)|
 
 **My Learning Curve be like 😋:**
 
