@@ -32,6 +32,11 @@ People can call me a Python Developer, Front End Enthusiast, and looking forward
 - 😄 Pronouns: **Coding**
 - ⚡ Fun fact: **I love css, I hate font-family**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhu30" alt="prabhu30" /> </p> -->
+
 [![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD)
 
 
