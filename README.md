@@ -28,11 +28,10 @@ People can call me a Python Developer, Front-End Web Developer and Data Science 
 - 🔭 I’m currently working on **Data Science & Web Development**
 -->
 
-- 🌱 I’m currently learning **Data Science**
-- 🔭 I'm good at **Web Development (Front-end)**
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **Python**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prabhu-kalyan-korivi-44630916b/)**
+- 💬 Ask me about **Python, Java, HTML, CSS and JavaScript**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prabhu-kalyan-korivi/)**
 - 😄 Pronouns: **Coding, Writing**
 - ⚡ Fun fact: **I love css, I hate font-family**
 
