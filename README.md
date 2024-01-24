@@ -1,6 +1,6 @@
-# Hello there! 👋🏻 I am Prabhu Kalyan! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I am Prabhu Kalyan Korivi! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Prabhu Kalyan 🙋🏻‍♂️, a Software Engineer & Book Lover.
+A Software Engineer 👨🏻‍💻 & A Book Lover 📚.
 
 People can call me a Web Developer, Java Developer or a Data Science Enthusiast 😄
 
