@@ -53,7 +53,6 @@ People can call me a Python Developer, Front-End Web Developer and Data Science 
 
 <br>
 
-**As we all know, Life is a Race 🚀**
-<hr>
+<b style="text-align:center;"> 🚀 As we all know, Life is a Race. Time never Stops for anyone. 🏃 </b>
 
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
