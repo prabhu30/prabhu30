@@ -39,7 +39,7 @@ People can call me a Python Developer, Front-End Web Developer and Data Science 
 
 <!-- [![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD) -->
 
-<br><br>
+<br>
 
 |Contributions & Streak|Github Stats|
 |:---:|:---:| 
@@ -51,9 +51,9 @@ People can call me a Python Developer, Front-End Web Developer and Data Science 
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhu30&repo=coding&show_owner=true&theme=prussian)](https://github.com/prabhu30/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu30&theme=react)](https://github.com/prabhu30/github-readme-stats)|
 -->
 
-<br><br>
-<hr>
+<br>
 
 **As we all know, Life is a Race 🚀**
+<hr>
 
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
