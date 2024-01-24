@@ -1,32 +1,8 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**prabhu30/prabhu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 # Hello there! 👋🏻 I am Prabhu Kalyan! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Prabhu Kalyan 🙋🏻‍♂️, a Student, Book Lover.
+I am Prabhu Kalyan 🙋🏻‍♂️, a Software Engineer & Book Lover.
 
-People can call me a Python Developer, Front-End Web Developer and Data Science Enthusiast 😄
-
-<!--
-- 🔭 I’m currently working on **Data Science & Web Development**
--->
+People can call me a Web Developer, Java Developer or a Data Science Enthusiast 😄
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Web Development Projects**
@@ -36,7 +12,6 @@ People can call me a Python Developer, Front-End Web Developer and Data Science 
 - ⚡ Fun fact: **I love Web Development, I hate font-family**
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhu30" alt="prabhu30" /> </p> -->
-
 <!-- [![Prabhu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhu30&theme=xcode)](https://git.io/JsQpD) -->
 
 <br>
