@@ -28,6 +28,6 @@ People can call me a Web Developer, Java Developer or a Data Science Enthusiast 
 
 <br>
 
-<b style="text-align:center;"> 🚀 As we all know, Life is a Race. Time never Stops for anyone. 🏃 </b>
+<b style="text-align:center;"> 🚀 As we all know, Life is a Race. Time never stops for ANYONE. 🏃 </b>
 
 ![Dino](https://github.com/prabhu30/prabhu30/blob/main/dino.gif?raw=true)
