@@ -2,14 +2,22 @@
 
 A Software Engineer 👨🏻‍💻 & A Book Lover 📚.
 
-People can call me a Web Developer, Java Developer or a Data Science Enthusiast 😄
+People can call me a Web Developer, Java Developer or Web Dev Enthusiast 😄
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **Python, Java, HTML, CSS and JavaScript**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prabhukalyan/)**
-- 😄 Pronouns: **Coding, Writing**
-- ⚡ Fun fact: **I love Web Development, I hate font-family**
+**🌱 I’m currently learning :**
+Full Stack Web Development
+
+**👯 I’m looking to collaborate on:**
+Web Development Projects
+
+**💬 Ask me about:**
+React, JavaScript, Python, Java
+
+**📫 How to reach me:**
+[LinkedIn](https://www.linkedin.com/in/prabhukalyan/)
+
+**⚡ Fun fact:**
+I love Painting Pixels, I hate font selection.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@prabhukalyan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prabhustwt)
