@@ -4,20 +4,21 @@ A Software Engineer 👨🏻‍💻 & A Book Lover 📚.
 
 People can call me a Web Developer, Java Developer or Web Dev Enthusiast 😄
 
+<br>
 **🌱 I’m currently learning :**
-<br>Full Stack Web Development<br><br>
+<br>Full Stack Web Development<br>
 
 **👯 I’m looking to collaborate on:**
-<br>Web Development Projects<br><br>
+<br>Web Development Projects<br>
 
 **💬 Ask me about:**
-<br>React, JavaScript, Python, Java<br><br>
+<br>React, JavaScript, Python, Java<br>
 
 **📫 How to reach me:**
-<br>[LinkedIn](https://www.linkedin.com/in/prabhukalyan/)<br><br>
+<br>[LinkedIn](https://www.linkedin.com/in/prabhukalyan/)<br>
 
 **⚡ Fun fact:**
-<br>I love Painting Pixels, I hate font selection.<br><br>
+<br>I love Painting Pixels, I hate font selection.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@prabhukalyan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prabhustwt)
