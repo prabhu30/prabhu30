@@ -3,8 +3,8 @@
 A Software Engineer 👨🏻‍💻 & A Book Lover 📚.
 
 People can call me a Web Developer, Java Developer or Web Dev Enthusiast 😄
-
 <br>
+
 **🌱 I’m currently learning :**
 <br>Full Stack Web Development<br>
 
