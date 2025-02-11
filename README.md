@@ -37,7 +37,7 @@ People can call me a Web Developer, Java Developer or Web Dev Enthusiast 😄
 
 |Contributions & Streak|Github Stats|
 |:---:|:---:| 
-|![Prabhu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhu30&theme=blueberry)| [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhu30&theme=tokyonight)](https://github.com/prabhu30/github-readme-stats)|
+|![Prabhu's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=prabhu30&theme=nightowl)| [![Prabhu's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=prabhu30&theme=tokyonight)](https://github.com/prabhu30/github-readme-stats)|
 
 <!--
 |One Good Repo|Top Languages|
